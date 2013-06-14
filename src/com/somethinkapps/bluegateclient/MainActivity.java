@@ -62,6 +62,7 @@ public class MainActivity extends Activity {
 
 	private final int PWM_FREQ = 100;
 //coba
+//coba lagi
 	private RatingBar gateStatus;
 	private Button guideButton;
 	private SeekBar mPanSeekBar;
